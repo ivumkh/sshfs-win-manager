@@ -4,6 +4,8 @@ dist/web/*
 build/*
 !build/icons
 node_modules/
+.tools/
+.cache/
 npm-debug.log
 npm-debug.log.*
 thumbs.db
